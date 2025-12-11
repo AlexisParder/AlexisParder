@@ -1,7 +1,7 @@
 # 42 Cursus
-
+<p align="center">
 [![achauvie's 42 stats](https://badge.mediaplus.ma/darkblue/achauvie?1337Badge=off&UM6P=off)](https://github.com/AlexisParder)
-
+</p>
 <!--
 **AlexisParder/AlexisParder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
