@@ -1,6 +1,7 @@
 # 42 Cursus
 [![achauvie's 42 stats](https://badge.mediaplus.ma/darkblue/achauvie?1337Badge=off&UM6P=off)](https://github.com/AlexisParder)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisParder&layout=compact&theme=dark)
+![AlexisParder's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisParder&show_icons=true&theme=dark) 
 <!--
 **AlexisParder/AlexisParder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
