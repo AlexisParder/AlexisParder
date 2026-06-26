@@ -1,0 +1,50 @@
+<svg width="100%" height="220" viewBox="0 0 880 220" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>AlexisParder - systems and full-stack developer console banner</title>
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .bar { fill: #161b22; }
+      .border { stroke: #30363d; stroke-width: 1; fill: none; }
+      .dot { fill-opacity: 1; }
+      .mono { font-family: 'SF Mono', 'Consolas', 'Monaco', monospace; }
+      .id { fill: #8b949e; font-size: 13px; }
+      .status { fill: #58a6ff; font-size: 13px; }
+      .prompt { fill: #58a6ff; font-size: 14px; }
+      .callsign { fill: #f0f6fc; font-size: 32px; font-weight: 700; }
+      .role { fill: #58a6ff; font-size: 14px; letter-spacing: 1px; }
+      .loc { fill: #8b949e; font-size: 13px; }
+      .bio { fill: #c9d1d9; font-size: 13px; }
+      .cursor { fill: #58a6ff; }
+      @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="880" height="220" rx="12"/>
+  <rect class="border" x="0.5" y="0.5" width="879" height="219" rx="12"/>
+
+  <rect class="bar" x="0" y="0" width="880" height="40" rx="12"/>
+  <rect class="bar" x="0" y="20" width="880" height="20"/>
+  <line x1="0" y1="40" x2="880" y2="40" stroke="#30363d" stroke-width="1"/>
+
+  <circle class="dot" cx="24" cy="20" r="6" fill="#F09595"/>
+  <circle class="dot" cx="44" cy="20" r="6" fill="#FAC775"/>
+  <circle class="dot" cx="64" cy="20" r="6" fill="#97C459"/>
+
+  <text x="92" y="24" class="mono id">root@42-angouleme:~# session --user=AlexisParder</text>
+
+  <circle cx="800" cy="20" r="4" fill="#58a6ff"/>
+  <text x="812" y="24" class="mono status">ONLINE</text>
+
+  <text x="40" y="76" class="mono prompt">$ whoami</text>
+  <text x="40" y="112" class="mono callsign">AlexisParder</text>
+  <text x="40" y="135" class="mono role">SYSTEMS &amp; FULL-STACK STUDENT</text>
+  <text x="40" y="155" class="mono loc">42 Angoulême · France</text>
+
+  <text x="40" y="180" class="mono bio">Building clean, low-level systems and full-stack apps —</text>
+  <text x="40" y="198" class="mono bio">with a post-apocalyptic UE5 game taking shape on the side.</text>
+
+  <text x="800" y="198" class="mono prompt" text-anchor="end">$</text>
+  <rect x="812" y="186" width="9" height="14" class="cursor">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.51;1;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
