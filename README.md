@@ -26,7 +26,7 @@
 
 **42 — showcase**
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -69,7 +69,7 @@ Dockerized infra — NGINX, WordPress, MariaDB.
 
 **Personal**
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
