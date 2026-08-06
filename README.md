@@ -36,7 +36,7 @@ Real-time multiplayer Pong — full-stack web app.
 </td>
 <td width="50%" valign="top">
 
-### [`cub3d`](https://github.com/AlexisParder/cub3d)
+### [`cub3d`](https://github.com/AlexisParder/42_cub3D)
 Raycasting 3D engine in C (MiniLibX).
 
 </td>
@@ -44,13 +44,13 @@ Raycasting 3D engine in C (MiniLibX).
 <tr>
 <td width="50%" valign="top">
 
-### [`so_long`](https://github.com/AlexisParder/so_long)
+### [`so_long`](https://github.com/AlexisParder/42_so_long)
 2D tile-based game in C.
 
 </td>
 <td width="50%" valign="top">
 
-### [`ft_irc`](https://github.com/AlexisParder/ft_irc)
+### [`ft_irc`](https://github.com/AlexisParder/42_IRC)
 IRC server in C++ (RFC 1459).
 
 </td>
@@ -58,7 +58,7 @@ IRC server in C++ (RFC 1459).
 <tr>
 <td width="50%" valign="top">
 
-### [`Inception`](https://github.com/AlexisParder/Inception)
+### [`Inception`](https://github.com/AlexisParder/42_inception)
 Dockerized infra — NGINX, WordPress, MariaDB.
 
 </td>
