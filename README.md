@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="./banner.svg" alt="AlexisParder banner" width="100%">
-
+  <img src="./banner.svg" alt="AlexisParder banner" width="100%">
 </div>
 
 <br>
@@ -26,24 +24,68 @@
 
 ## `// PROJECTS`
 
+**42 — showcase**
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [`42_Cursus`](https://github.com/AlexisParder/42_Cursus)
-Core 42 curriculum projects — low-level C, systems programming.
+### [`ft_transcendence`](https://github.com/AlexisParder/ft_transcendence)
+Real-time multiplayer Pong — full-stack web app.
 
 </td>
+<td width="50%" valign="top">
+
+### [`cub3d`](https://github.com/AlexisParder/cub3d)
+Raycasting 3D engine in C (MiniLibX).
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`so_long`](https://github.com/AlexisParder/so_long)
+2D tile-based game in C.
+
+</td>
+<td width="50%" valign="top">
+
+### [`ft_irc`](https://github.com/AlexisParder/ft_irc)
+IRC server in C++ (RFC 1459).
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`Inception`](https://github.com/AlexisParder/Inception)
+Dockerized infra — NGINX, WordPress, MariaDB.
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
+**Personal**
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ### [`Maneyge`](https://github.com/AlexisParder/Maneyge)
 Full-stack PHP app — finances, shared calendar, todo system.
 
 </td>
+<td width="50%" valign="top">
+
+
+### [`LessHumanity` (in dev)](https://github.com/PARDER-Games/LessHumanity)
+Post-apocalyptic survival game in Unreal Engine 5 — not yet public.
+
+</td>
 </tr>
 </table>
-
-> **`LessHumanity`** *(in dev)* — a post-apocalyptic survival game built in Unreal Engine 5. Work in progress, not yet public.
 
 <br>
 
@@ -52,9 +94,7 @@ Full-stack PHP app — finances, shared calendar, todo system.
 <div align="center">
 
 ![AlexisParder's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisParder&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexisParder&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisParder&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
