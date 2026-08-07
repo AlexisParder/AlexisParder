@@ -31,7 +31,7 @@
 <td width="50%" valign="top">
 
 ### [`ft_transcendence`](https://github.com/AlexisParder/ft_transcendence)
-Real-time multiplayer Pong — full-stack web app.
+Multiplayer — full-stack web app.
 
 </td>
 <td width="50%" valign="top">
