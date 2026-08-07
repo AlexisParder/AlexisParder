@@ -51,7 +51,7 @@ Raycasting 3D engine in C (MiniLibX).
 <td width="50%" valign="top">
 
 ### [`ft_irc`](https://github.com/AlexisParder/42_IRC)
-IRC server in C++ (RFC 1459).
+IRC server in C++.
 
 </td>
 </tr>
